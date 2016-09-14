@@ -71,7 +71,7 @@ BLOB ストレージ アカウントは、**アクセス層**属性を公開し�
 <tr>
     <td><strong><center></center></strong></td>
     <td><strong><center>ホット ストレージ層</center></strong></td>
-    <td><strong><center>クール ストレージ層</center></strong>&lt;/td
+    <td><strong><center>クール ストレージ層</center></strong></td>
 </tr>
 <tr>
     <td><strong><center>可用性</center></strong></td>
